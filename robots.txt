@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ktoenn.github.io/VWC/sitemap.VWC.gz
